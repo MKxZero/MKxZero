@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="MKxZero's Github Stats" src="https://github-readme-stats.MKxZero.vercel.app/api?username=MKxZero&show_icons=true&hide_border=true" />
+  <img align="left" alt="MKxZero's Github Stats" src="https://https://github-readme-stats.mkxzero.vercel.app/api?username=MKxZero&show_icons=true&hide_border=true" />
 
 </details>
 
