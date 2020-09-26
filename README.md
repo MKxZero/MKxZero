@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a [Portfolio][website]!
 
-### Spotify Playing 🎧
+### Spotify Playing 🎧 | need to sort it
 [<img src="https://now-playing-MKxZero.vercel.app/api/spotify-playing" alt="MKxZero Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos | Need to create Workflow for it Once I have youtube channel started to automate it
 
 <!-- YOUTUBE:START -->
 - [This Is Just An Example | Animated Hamburger Menu | Hello There | Steppy Tutorial 2021](https://www.youtube.com/watch?v=)
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts | Need to create Workflow for it Once I have blog started to automate it
 
 <!-- BLOG-POST-LIST:START -->
 - [This Is Just An Example](https://dev.to/MKxZero/microinteractions-password-validation-animation-5629)
